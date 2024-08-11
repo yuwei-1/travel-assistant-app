@@ -1,0 +1,1 @@
+ /Users/yuwei-1/Documents/projects/assistant-app/ai_assistant_app/.dart_tool/flutter_build/20e78115f896f45543c6018b6b801e7c/native_assets.yaml: 
