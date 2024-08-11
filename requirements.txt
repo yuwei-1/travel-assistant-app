@@ -1,0 +1,13 @@
+Flask
+google-generativeai
+chromadb
+googlesearch-python
+beautifulsoup4
+requests-html
+selenium
+langchain
+langchain-community
+sentence-transformers
+ipywidgets
+jupyter
+langchain-chroma
