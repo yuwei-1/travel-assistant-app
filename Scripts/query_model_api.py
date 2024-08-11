@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from query_gemini import QueryGeminiModel
+from query_gemini_public import QueryGeminiModel
 
 app = Flask(__name__)
 
